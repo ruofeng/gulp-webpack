@@ -1,4 +1,4 @@
-# generator-gjw
+# gulp-webpack
 
 > 集成[Gulp](https://github.com/gulpjs/ "Gulp")，[webpack](https://github.com/webpack/webpack "webpack")，[bower](https://github.com/bower/bower "bower")的前端工作流；
 > 
