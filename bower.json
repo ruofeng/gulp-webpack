@@ -1,0 +1,19 @@
+{
+  "name": "gulp-webpack",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "minglin.1990@163.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+  }
+}
