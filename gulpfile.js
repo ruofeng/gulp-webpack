@@ -121,7 +121,7 @@ gulp.task('styles', function () {
 		.pipe( connect.reload() );
 });
 
-// 脚本 jshint && uglify
+// 脚本 jshint
 gulp.task('scripts', ['webpack-js'], function () {
 	return gulp.src(TMP_DIR + 'scripts/**/*.js')
 		.pipe( jshint() )
